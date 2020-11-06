@@ -1,0 +1,34 @@
+.cronResultingString{
+  font: normal 500 13px "-apple-system",system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  color: #5e6c84;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 4px;
+}
+.checkListWrapper{
+  .checkSingleElement{
+    width: 50px !important;
+  }
+
+
+}
+.checkListWrapperYears{
+  .checkSingleElement{
+    width: 70px !important;
+  }
+}
+.cronResult{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  .cronResultTitle{
+    font: normal 500 13px "-apple-system",system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    color: #5e6c84;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+}
